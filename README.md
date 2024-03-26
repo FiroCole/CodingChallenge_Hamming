@@ -4,7 +4,7 @@
 
 <div id="description" align="center">
 
-# :white_check_mark: Hamming Distance :white_check_mark:
+# :ruler: Hamming Distance :ruler:
 
 
 
@@ -41,13 +41,11 @@ Key aspects of my approach to a solution include:
   
 - Case Sensitivity: The solution treats differences in case as valid differences between the two strings, adhering to a strict interpretation of character equality.
 
-:old_key: Key Features
-[:x:] Accurate calculation of the Hamming distance between two equal-length strings.
+## :old_key: Key Features
 
-:sparkles: How to Use
-To use this function in your project, simply include the hammingDistance function in your JavaScript file. Here's a quick example of how to call it:
+- [:x:] Accurate calculation of the Hamming distance between two equal-length strings.
 
-let result = hammingDistance('abcd', 'aBCd'); // Should return 2
-console.log(result);
+## :sparkles: How to Use
+To use this function in your project, simply include the hammingDistance function in your JavaScript file.
 
 Feel free to connect with me on LinkedIn or explore more of my projects on GitHub. Your feedback and contributions are welcome!
