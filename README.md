@@ -13,7 +13,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-@firocolemd-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/firocolemd/)
 
   ## :pencil: Challenge Overview
-The Hamming Distance challenge is of intermediate difficulty and involves the computation of the Hamming distance between two strings of equal length. The Hamming distance is a measure used in information theory and computer science to determine the difference between two strings. It finds applications in scenarios such as implementing "fuzzy search" capabilities, where small discrepancies might be allowed between the search term and the matching strings.
+The Hamming Distance challenge is of intermediate difficulty and involves the computation of the Hamming distance between two strings of equal length. The Hamming distance is a measure used in information theory and computer science to determine the difference between two strings. It's useful for implementing "fuzzy searches", where small discrepancies are allowed between the search term and the matching strings.
 
 </div>
 
