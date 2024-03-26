@@ -4,7 +4,7 @@
 
 <div id="description" align="center">
 
-# :ruler: Hamming Distance :ruler:
+# :straight_ruler: Hamming Distance :straight_ruler:
 
 
 
